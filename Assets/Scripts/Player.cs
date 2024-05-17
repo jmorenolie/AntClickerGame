@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class Player : MonoBehaviour
 {
     public static List<Square> squares;
-
     public static int score = 0;
 
     void Awake()
